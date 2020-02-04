@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7c546453-00be-4810-a2ac-743e311dadfe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +12,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\jecre\PycharmProjects\django\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1XJ0xDIa68VBv93vS6dPQ27BBTh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -51,11 +59,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580749133434</updated>
-      <workItem from="1580749137122" duration="4038000" />
+      <workItem from="1580749137122" duration="4685000" />
     </task>
+    <task id="LOCAL-00001" summary="Second commit">
+      <created>1580781367504</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580781367504</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1580781366420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580781366420" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1580781369353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1580781369353" />
   </component>
 </project>
